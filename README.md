@@ -6,3 +6,6 @@
 * comando git push
 
 * comanddo git pull
+
+* comando git fetch
+* 
